@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71153980f7f761847bbac8a2f80efcef, type: 3}
+  m_Name: fala 1.2
+  m_EditorClassIdentifier: 
+  falanpc: "(nome da musica), conhece? Se n\xE3o conhecer tudo bem, n\xE3o h\xE1
+    muitas pessoas nessa vila que apreciem uma boa m\xFAsica (inserir genero da musica)"
+  respostas:
+  - resposta: "Hahahaha, vou ter que concordar! Realmente, por aqui as coisas s\xE3o
+      um pouco\u2026atrasadas demais, por assim dizer. "
+    proxfala: {fileID: 11400000, guid: 841338efb9f76b249849a54576a2702b, type: 2}
+  - resposta: "N\xE3o conhe\xE7o, para ser sincera. Mas gostei da m\xFAsica, na sua
+      voz pelo menos\u2026"
+    proxfala: {fileID: 11400000, guid: 54d90a7eff93695428b870ca426c970a, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71153980f7f761847bbac8a2f80efcef, type: 3}
+  m_Name: fala 1.1.1
+  m_EditorClassIdentifier: 
+  falanpc: "Estamos conectadas, ent\xE3o! M\xFAsica \xE9 vida, realmente! Mas afinal,
+    o que te trouxe at\xE9 aqui? Conhe\xE7o essa vila de uma ponta a outra e tenho
+    certeza que nunca te vi por aqui. "
+  respostas:
+  - resposta: "Ah, digamos que eu esteja em uma\u2026viagem de autoconhecimento?
+      \xC9, acredito que \xE9 isso.  "
+    proxfala: {fileID: 11400000, guid: d659f8126d2c99c428934059120efc6b, type: 2}
+  - resposta: "Eu\u2026sinceramente n\xE3o sei. Quer dizer, eu tenho um prop\xF3sito,
+      mas n\xE3o tenho certeza se esse \xE9 o caminho certo\u2026 "
+    proxfala: {fileID: 11400000, guid: 27ce810f875620e4ab6d8604420adf98, type: 2}

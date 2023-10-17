@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71153980f7f761847bbac8a2f80efcef, type: 3}
+  m_Name: fala 2.1.2
+  m_EditorClassIdentifier: 
+  falanpc: "Ah, claro que entendo! Sinto muito se eu pareci intrometida. \xC9 que
+    voc\xEA me parece tensa, para dizer o m\xEDnimo, ent\xE3o pensei em tentar te
+    ajudar\u2026 "
+  respostas:
+  - resposta: "Oh! Pare\xE7o mesmo? Eu nem ao menos percebi\u2026"
+    proxfala: {fileID: 11400000, guid: bbfef6ca1ef6b9f4d9fa540782aeb376, type: 2}

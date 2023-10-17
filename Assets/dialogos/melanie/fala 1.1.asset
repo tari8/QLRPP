@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71153980f7f761847bbac8a2f80efcef, type: 3}
+  m_Name: fala 1.1
+  m_EditorClassIdentifier: 
+  falanpc: "S\xE9rio? Ok, isso \xE9 novidade! N\xE3o h\xE1 muitas pessoas nesse vilarejo
+    que apreciem uma boa m\xFAsica (inserir genero da musica) "
+  respostas:
+  - resposta: "Ah, eu amo todo tipo de m\xFAsica, para ser sincera. M\xFAsica me
+      conquista, \xE9 minha motiva\xE7\xE3o. "
+    proxfala: {fileID: 11400000, guid: ad82ae2582059fc42bc2914cea79dee3, type: 2}
+  - resposta: "Na verdade, esse estilo n\xE3o \xE9 muito minha \u201Cpraia\u201D,
+      mas eu escuto de vez em quando e realmente sei apreciar quando uma m\xFAsica
+      \xE9 boa de verdade. "
+    proxfala: {fileID: 11400000, guid: 137a06f99ac55de4a90d6c72214b0769, type: 2}
+  - resposta: "\xC9\u2026mas eu n\xE3o curto muito essa m\xFAsica, apenas disse que
+      a conhe\xE7o\u2026 "
+    proxfala: {fileID: 11400000, guid: 7ab0436198921e74d965dabcdcb119f7, type: 2}
