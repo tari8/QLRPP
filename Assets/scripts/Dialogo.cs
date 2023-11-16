@@ -34,7 +34,7 @@ public class Dialogo : MonoBehaviour
             }
             else
             {
-                dialcont.ProximaFala(falas[1]);
+                Destroy(this.gameObject);
             }
 
             dialogconcluido = true;
