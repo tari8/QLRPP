@@ -19,7 +19,7 @@ public class player : MonoBehaviour
     [SerializeField]
     private dash dash;
 
-    [Header("No chão")]
+    [Header("No chï¿½o")]
     public Transform posicPe;
     public LayerMask ground;
     private bool noChao;
@@ -96,11 +96,8 @@ public class player : MonoBehaviour
                         anim.SetBool("doublejump", true);
                         rigid.AddForce(new Vector2(0, forcapulo), ForceMode2D.Impulse);
                         puloduplo = false;
-                        pulando = false;
                     }
                 }
-       
-
         }
 
         void OnCollisionEnter2D(Collision2D colidir)

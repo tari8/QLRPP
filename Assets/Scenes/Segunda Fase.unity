@@ -40401,7 +40401,6 @@ GameObject:
   - component: {fileID: 73345736}
   - component: {fileID: 73345735}
   - component: {fileID: 73345734}
-  - component: {fileID: 73345733}
   m_Layer: 0
   m_Name: arbusto1
   m_TagString: Untagged
@@ -40409,19 +40408,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &73345733
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 73345732}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 613b4a8ff05c3de4a9d07e105f087dfb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  nomeProximaFase: Terceira Fase
 --- !u!61 &73345734
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -41419,7 +41405,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 264.71332, y: -0.35999966, z: -10}
+  m_LocalPosition: {x: 467.87305, y: -0.35999966, z: -10}
   m_LocalScale: {x: 1.0265, y: 1.0265, z: 1.0265}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -48121,7 +48107,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1357419491}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 261.3, y: -1, z: 0}
+  m_LocalPosition: {x: 463.8, y: -1, z: 0}
   m_LocalScale: {x: 2.0114179, y: 2.0114179, z: 2.0114179}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -49356,7 +49342,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1961771221}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 264.71332, y: -0.35999966, z: -10}
+  m_LocalPosition: {x: 467.87305, y: -0.35999966, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
